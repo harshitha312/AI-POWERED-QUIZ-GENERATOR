@@ -1,7 +1,0 @@
-streamlit
-transformers
-torch
-wikipedia
-pytesseract
-Pillow
-nltk
